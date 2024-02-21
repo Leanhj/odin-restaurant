@@ -1,0 +1,24 @@
+{
+  "name": "odin-restaurant",
+  "version": "1.0.0",
+  "description": "TOP Restaurant Page",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leanhj/odin-restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leanhj/odin-restaurant/issues"
+  },
+  "homepage": "https://github.com/Leanhj/odin-restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
